@@ -1,2 +1,0 @@
-Jucatorii au posibilitatea sa salveze starea jocului/caracterului si sa o restaureze mai tarziu
-- jucatorul poate relua jocul dintr-un anumit punct
