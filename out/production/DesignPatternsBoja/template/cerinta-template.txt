@@ -1,0 +1,3 @@
+Vanzarile pachetelor turistice se fac după următorii pași:
+se cauta cazare, se cauta transport, se rezerva pachetul si in final se plateste pachetul
+.Sa se implementeze modulul care realizează acest algoritm.
